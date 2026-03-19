@@ -10,7 +10,7 @@ function App() {
 
             <Title text={"MEDICINE AND SURGERY"} />
 
-            <Title text={"ENGINEERING"} />
+            <Title text={"ENGINEERINGs"} />
 
             <Content />
         </>
