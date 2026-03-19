@@ -6,7 +6,7 @@ function App() {
 
     return (
         <>
-            <Title text={"BSIT"} />
+            <Title text={"BACHELOR OF SCIENCE IN INFORMATION TECHNOLOGY"} />
 
             <Title text={"MEDICINE"} />
 
