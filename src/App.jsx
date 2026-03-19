@@ -12,6 +12,8 @@ function App() {
 
             <Title text={"ENGINEERINGs"} />
 
+            <Title text={"ARCHITECTURE"} />
+
             <Content />
         </>
     );
