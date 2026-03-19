@@ -18,7 +18,7 @@ function App() {
 
             <Title text={"DENTISTRY"} />
 
-            <Title text = {"NONE"} />
+            <Title text = {"BUSINESS"} />
 
             <Content />
         </>
