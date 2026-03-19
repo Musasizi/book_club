@@ -14,6 +14,10 @@ function App() {
 
             <Title text={"ARCHITECTURE"} />
 
+            <Title text={"NURSING"} />
+
+            <Title text={"DENTISTRY"} />
+
             <Content />
         </>
     );
