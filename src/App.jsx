@@ -18,6 +18,8 @@ function App() {
 
             <Title text={"DENTISTRY"} />
 
+            <Title text = {"NONE"} />
+
             <Content />
         </>
     );
