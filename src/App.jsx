@@ -8,7 +8,7 @@ function App() {
         <>
             <Title text={"BACHELOR OF SCIENCE IN INFORMATION TECHNOLOGY"} />
 
-            <Title text={"MEDICINE"} />
+            <Title text={"MEDICINE AND SURGERY"} />
 
             <Title text={"ENGINEERING"} />
 
